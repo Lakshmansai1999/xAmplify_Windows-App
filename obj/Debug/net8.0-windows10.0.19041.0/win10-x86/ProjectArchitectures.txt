@@ -1,0 +1,1 @@
+C:\Users\klakshmansai\Desktop\Android-Pushnotifications-Demo\maui-xamplify\xamplify.csproj;x86

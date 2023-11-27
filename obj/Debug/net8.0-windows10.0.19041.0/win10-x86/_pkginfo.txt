@@ -1,0 +1,1 @@
+C:\Users\klakshmansai\Desktop\Android-Pushnotifications-Demo\maui-xamplify\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppPackages\xamplify_0.0.1.0_Debug_Test\xamplify_0.0.1.0_x86_Debug.msix
